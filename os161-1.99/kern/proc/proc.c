@@ -107,7 +107,7 @@ proc_create(const char *name)
 }
 
 /*
- * Destroy a proc structure.
+ * Destroy a proc structure.................
  */
 void
 proc_destroy(struct proc *proc)
